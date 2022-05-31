@@ -9,6 +9,6 @@ public class PracticeTest {
 	 */
 	@Test
 	public void practice() {
-		Reporter.log("Hi",true);//
+		Reporter.log("Hi",true);
 	}
 }
